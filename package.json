@@ -54,7 +54,7 @@
 		"lodash": "^4.17.20",
 		"mocha": "^7.1.2",
 		"mocha-each": "^2.0.1",
-		"mocha-logger": "^1.0.6",
+		"mocha-logger": "^1.0.7",
 		"nyc": "^15.1.0",
 		"prettier": "^2.1.2",
 		"pretty-quick": "^3.0.2",
